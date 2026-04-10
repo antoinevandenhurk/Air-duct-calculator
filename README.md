@@ -1,11 +1,3 @@
-Read [](file:///d%3A/LuchtkanaalCalculator/LuchtkanaalCalculator/MainWindow.xaml.cs#1-1), lines 1 to 30
-
-Searched for text `Content=` (`**/MainWindow.xaml`), 11 results
-
-<create_file>
-<parameter name="filePath">d:\LuchtkanaalCalculator\README.md</parameter>
-<parameter name="content"># Air Duct Calculator / Digitale Luchtschijf
-
 A professional Windows desktop application for calculating air duct properties including flow rates and velocities for HVAC systems.
 
 ## Features
@@ -113,7 +105,7 @@ See LICENSE file for details.
 
 ## About
 
-Developed as a professional HVAC calculation tool. The VVA logo is included in the application title bar.
+Developed as a professional HVAC calculation tool. The logo is included in the application title bar.
 
 ## Support
 
