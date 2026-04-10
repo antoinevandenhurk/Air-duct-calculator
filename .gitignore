@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+release/
+
+# Visual Studio Cache
+.vs/
+.vscode/.vscode
+
+# Build logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# ReSharper
+.idea/
+*.sln.iml
+
+# Local user preferences
+*.user
+*.suo
+*.userprefs
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
